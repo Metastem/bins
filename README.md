@@ -1,5 +1,3 @@
-#non vbv bins
-
 #HB
 
 402856 
